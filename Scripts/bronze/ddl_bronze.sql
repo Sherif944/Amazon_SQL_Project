@@ -9,16 +9,6 @@ Script Purpose:
 ===============================================================================
 */
 
--- Creating Schemas bronze, silver and gold 
-
-CREATE SCHEMA bronze
-GO
-CREATE SCHEMA silver
-GO
-CREATE SCHEMA gold
-GO
-
-
 -- Category Tbale
 DROP TABLE IF EXISTS bronze.category
 GO
